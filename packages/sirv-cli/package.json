@@ -13,7 +13,7 @@
   },
   "author": {
     "name": "Daniel Tan",
-    "email": "danieltanfh95@gmail.com",
+    "email": "danieltanfh95@gmail.com"
   },
   "engines": {
     "node": ">= 10"

@@ -1,8 +1,8 @@
 {
-  "name": "sirv-cli",
-  "version": "1.0.14",
+  "name": "@danieltanfh95/sirv-cli",
+  "version": "1.0.15",
   "description": "A lightweight CLI program to serve static sites~!",
-  "repository": "lukeed/sirv",
+  "repository": "https://github.com/danieltanfh95/sirv",
   "main": "index.js",
   "license": "MIT",
   "files": [
@@ -12,9 +12,8 @@
     "sirv": "bin.js"
   },
   "author": {
-    "name": "Luke Edwards",
-    "email": "luke@lukeed.com",
-    "url": "https://lukeed.com"
+    "name": "Daniel Tan",
+    "email": "danieltanfh95@gmail.com",
   },
   "engines": {
     "node": ">= 10"

@@ -10,7 +10,7 @@ const toPort = require('get-port');
 
 const PAD = '  ';
 const { HOST, PORT } = process.env;
-const stamp = tinydate('{HH}:{mm}:{ss}');
+const stamp = tinydate('{YYYY}-{MM}-{DD}T{HH}:{mm}:{ss}.{fff}Z');
 
 function toTime() {
 	return '[' + colors.magenta(stamp()) + '] ';
